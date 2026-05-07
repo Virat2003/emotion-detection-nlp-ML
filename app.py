@@ -260,7 +260,7 @@ EMOTIONS = {
 st.markdown("""
 <div class="hero">
     <div class="hero-eyebrow">Natural Language Processing</div>
-    <h1 class="hero-title">EmotiScan</h1>
+    <h1 class="hero-title">EmotionScan</h1>
     <p class="hero-sub">Paste any text below and discover the emotion behind it.</p>
 </div>
 """, unsafe_allow_html=True)
